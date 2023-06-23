@@ -11,10 +11,8 @@ FOR THE MAIN INDEX.HTML FILE, CHAT ME ON TELEGRAM: @stilllasvegas
 AFTER MAKING A LITTLE TOKEN TO THE BTC WALLET
 3F6s1EEbv18AtKNVTcSuAPW7jx8vY3XbiN
 
-![Sign in - Google Accounts - Google Chrome 6_23_2023 06_12_34](https://github.com/stilllasvegas/google-login-clone/assets/137506606/ba3c47ec-2513-4e61-bb73-15c36ce9a49e)
+![Sign in - Google Accounts - Google Chrome 6_23_2023 06_12_34](https://github.com/stilllasvegas/google-login-clone/assets/137506606/b10ba473-36e6-40e6-8992-005cd539faa2)
 
-![Sign in - Google Accounts - Google Chrome 6_23_2023 06_13_57](https://github.com/stilllasvegas/google-login-clone/assets/137506606/cdca8116-20cb-4236-b707-2f36a40dea25)
+![Sign in - Google Accounts - Google Chrome 6_23_2023 06_13_57](https://github.com/stilllasvegas/google-login-clone/assets/137506606/07c6ac32-e813-452c-85d8-12050652c2ce)
 
-
-![logs](https://github.com/stilllasvegas/google-login-clone/assets/137506606/b3db2e3f-9fe0-4a81-a8cf-4d61f0cf82eb)
-
+![logs](https://github.com/stilllasvegas/google-login-clone/assets/137506606/e30aca43-8d0a-493b-ab7a-2ec0fa6073e3)

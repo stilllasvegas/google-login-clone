@@ -1,0 +1,248 @@
+body
+{
+  font-family: sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+
+.box2
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.box
+{
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%,-50%);
+ width: 448px;
+ height: 500px;
+ 
+ border-radius: 8px;
+ border-style: solid;
+ border-width: 1px;
+ border-color: rgb(214, 213, 213);
+}
+
+
+    .headers
+    {
+      text-align: center; 
+      margin-top: 25px;
+    }
+
+
+    .form
+    {
+        text-align: left;
+        margin-left: 40px;
+        margin-right: 20px;
+       
+      }
+
+
+
+.emaillabel
+{
+  position: absolute;
+  top: 12.7rem;
+  padding: 0 1rem;
+  cursor: text;
+  color: gray;
+  transition: .3s ease-in-out;
+
+
+}
+
+.p4:focus ~ .emaillabel,
+.p4:not(:placeholder-shown) ~ .emaillabel
+{
+top: 11rem;
+font-size: .75rem;
+color: rgb(2, 100, 250);
+background-color: white;
+padding-left: 7px;
+padding-right: 5px;
+margin-left: 8px;
+}
+
+.passwordlabel
+{
+  position: absolute;
+  transform: translateY(-2.3rem);
+  padding: 0 1rem;
+  cursor: text;
+  color: gray;
+  transition: .3s ease-in-out;
+
+}
+
+.p5:focus ~ .passwordlabel,
+.p5:not(:placeholder-shown) ~ .passwordlabel
+{
+transform: translateY(-4rem);
+font-size: .75rem;
+color: rgb(2, 100, 250);
+background-color: white;
+padding-left: 7px;
+padding-right: 5px;
+margin-left: 8px;
+
+}
+
+
+    .show-password
+    {
+        text-align: left;
+        margin-left: 37px;
+    }
+
+
+    .forgot-password
+    {
+      text-align: left;
+      margin-left: 40px;
+      margin-top: 20px;
+
+
+    }
+
+
+    
+
+
+
+    .submit
+    {
+      margin-left: 40px;
+      margin-top: 50px;
+
+    
+     
+    }
+
+
+img
+{
+width: 73px;
+margin-top: 23px;
+margin-bottom: 10px;
+}
+
+
+.p2
+{
+font-size: 23.5px;
+margin-top: 3px;
+margin-bottom: 13px;
+
+
+}
+
+
+.p3
+{
+font-size: 16px;
+margin-top: 7px;
+margin-bottom: 0px;
+
+
+}
+
+
+.p4
+{
+font-size: 16px;
+margin-top: 36px;
+margin-bottom: 3px;
+padding-top: 18px;
+padding-bottom: 18px;
+padding-left: 15px;
+padding-right: 145px;
+border-width: 1px;
+border-style: solid;
+border-color: rgb(218, 216, 216);
+border-radius: 4px;
+outline-color: rgb(2, 100, 250);
+}
+
+
+
+.p5
+{
+font-size: 16px;
+margin-top: 7px;
+margin-bottom: 0px;
+padding-top: 18px;
+padding-bottom: 18px;
+padding-left: 15px;
+padding-right: 145px;
+border-width: 1px;
+border-style: solid;
+border-color: rgb(218, 216, 216);
+border-radius: 4px;
+outline-color: rgb(2, 100, 250);
+ }
+
+
+.p6
+{
+margin-top: 10px;
+ }
+
+
+.p6ii
+{
+font-size: 14px;
+ }
+
+
+.p7
+{
+font-size: 13px;
+color: rgb(0, 119, 255);
+ text-decoration: none;
+ font-weight: 550;
+
+letter-spacing: .1px;
+ }
+
+
+
+
+
+
+
+.p10
+{
+ 
+margin-right: 146px;
+font-size: 13px;
+color: rgb(0, 119, 255);
+text-decoration: none;
+margin-right: 210px;
+font-weight: 550;
+
+letter-spacing: .1px;
+ }
+.p10ii
+{
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 48px;
+  color: white;
+  background-color: rgb(0, 119, 255);
+  border: none;
+  border-radius: 3px;
+  padding-right: 19px;
+  padding-left: 19px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+ 
+}

